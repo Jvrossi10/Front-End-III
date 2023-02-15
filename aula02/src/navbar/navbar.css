@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Pacifico&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: #222;
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav #titulo {
+  color: #b0b0b0;
+  font-family: "Caveat", cursive;
+}/*# sourceMappingURL=navbar.css.map */
